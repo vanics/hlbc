@@ -58,7 +58,7 @@
 			<key>key</key>
 			<string>pharmacy</string>
 			<key>label</key>
-			<string>After-hours Pharmacies</string>
+			<string>Pharmacies 2</string>
 			<key>pinImageURL</key>
 			<string>http://foo/pharmacy-pin.png</string>
 			<key>url</key>
