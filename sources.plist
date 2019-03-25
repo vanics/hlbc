@@ -14,7 +14,7 @@
 			<key>pinImageURL</key>
 			<string>http://foo/walkin-pin.png</string>
 			<key>url</key>
-			<string>https://hlbc.hlth.gov.bc.ca/hlbc_walkinclinics.txt</string>
+			<string>https://catalogue.data.gov.bc.ca/dataset/5e2707c3-0aa4-4d2d-aedc-4dd0914b686a/resource/d5945d86-4416-4a11-a327-05a50b99bacf/download/hlbc_walkinclinics.txt</string>
 		</dict>
 		<dict>
 			<key>iconImageURL</key>
@@ -26,7 +26,7 @@
 			<key>pinImageURL</key>
 			<string>http://foo/hospital-pin.png</string>
 			<key>url</key>
-			<string>https://hlbc.hlth.gov.bc.ca/hlbc_Hospitals.txt</string>
+			<string>https://catalogue.data.gov.bc.ca/dataset/383eaf98-afd7-436a-9556-67ecf14f64a7/resource/cc137ca9-58e1-4cf5-9f9e-4ada207bc23b/download/hlbc_hospitals.txt</string>
 		</dict>
 		<dict>
 			<key>iconImageURL</key>
@@ -38,7 +38,7 @@
 			<key>pinImageURL</key>
 			<string>http://foo/emergency-pin.png</string>
 			<key>url</key>
-			<string>https://hlbc.hlth.gov.bc.ca/hlbc_EmergencyRooms.txt</string>
+			<string>https://catalogue.data.gov.bc.ca/dataset/88e982b2-0799-4e17-b000-9961ea05b0f0/resource/4b834874-089f-4512-b001-8534e597a1b6/download/hlbc_emergencyrooms.csv</string>
 		</dict>
 		<dict>
 			<key>iconImageURL</key>
@@ -50,7 +50,7 @@
 			<key>pinImageURL</key>
 			<string>http://foo/immunization-pin.png</string>
 			<key>url</key>
-			<string>https://hlbc.hlth.gov.bc.ca/hlbc_ImmunizationClinics.txt</string>
+			<string>https://catalogue.data.gov.bc.ca/dataset/f49ebe46-6faf-4b5d-a21e-c19db5ec69d7/resource/61fb6bfa-37b6-4a4b-b85f-0ae0a5fa5a45/download/hlbc_immunizationclinics.txt</string>
 		</dict>
 		<dict>
 			<key>iconImageURL</key>
@@ -74,7 +74,7 @@
 			<key>pinImageURL</key>
 			<string>http://foo/labs-pin.png</string>
 			<key>url</key>
-			<string>https://hlbc.hlth.gov.bc.ca/hlbc_Labs.txt</string>
+			<string>https://catalogue.data.gov.bc.ca/dataset/401671c5-4fc4-4ffb-9e29-0cdc3c9433ba/resource/9d5130cf-11f1-4cbd-9536-6eacce1d02a3/download/hlbc_labs.txt</string>
 		</dict>
 	</array>
 </dict>
