@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>sources</key>
+	<array>
+		<dict>
+			<key>iconImageURL</key>
+			<string>http://foo/walkin-icon.png</string>
+			<key>key</key>
+			<string>walkin</string>
+			<key>label</key>
+			<string>Walk In Clinics</string>
+			<key>pinImageURL</key>
+			<string>http://foo/walkin-pin.png</string>
+			<key>url</key>
+			<string>https://hlbc.hlth.gov.bc.ca/hlbc_walkinclinics.txt</string>
+		</dict>
+		<dict>
+			<key>iconImageURL</key>
+			<string>http://foo/hospital-icon.png</string>
+			<key>key</key>
+			<string>hospital</string>
+			<key>label</key>
+			<string>Hospitals</string>
+			<key>pinImageURL</key>
+			<string>http://foo/hospital-pin.png</string>
+			<key>url</key>
+			<string>https://hlbc.hlth.gov.bc.ca/hlbc_Hospitals.txt</string>
+		</dict>
+		<dict>
+			<key>iconImageURL</key>
+			<string>http://foo/emergency-icon.png</string>
+			<key>key</key>
+			<string>emergency</string>
+			<key>label</key>
+			<string>Emergency Rooms</string>
+			<key>pinImageURL</key>
+			<string>http://foo/emergency-pin.png</string>
+			<key>url</key>
+			<string>https://hlbc.hlth.gov.bc.ca/hlbc_EmergencyRooms.txt</string>
+		</dict>
+		<dict>
+			<key>iconImageURL</key>
+			<string>http://foo/immunization-icon.png</string>
+			<key>key</key>
+			<string>immunization</string>
+			<key>label</key>
+			<string>Immunizations</string>
+			<key>pinImageURL</key>
+			<string>http://foo/immunization-pin.png</string>
+			<key>url</key>
+			<string>https://hlbc.hlth.gov.bc.ca/hlbc_ImmunizationClinics.txt</string>
+		</dict>
+		<dict>
+			<key>iconImageURL</key>
+			<string>http://foo/pharmacy-icon.png</string>
+			<key>key</key>
+			<string>pharmacy</string>
+			<key>label</key>
+			<string>After-hours Pharmacies</string>
+			<key>pinImageURL</key>
+			<string>http://foo/pharmacy-pin.png</string>
+			<key>url</key>
+			<string>https://catalogue.data.gov.bc.ca/dataset/f5b6bfad-d06a-4952-ae47-976fb5092bcc/resource/41b0d8e0-5dee-4450-9f01-d8999cf0c019/download/hlbc_pharmacies.txt</string>
+		</dict>
+		<dict>
+			<key>iconImageURL</key>
+			<string>http://foo/labs-icon.png</string>
+			<key>key</key>
+			<string>labs</string>
+			<key>label</key>
+			<string>Laboratories</string>
+			<key>pinImageURL</key>
+			<string>http://foo/labs-pin.png</string>
+			<key>url</key>
+			<string>https://hlbc.hlth.gov.bc.ca/hlbc_Labs.txt</string>
+		</dict>
+	</array>
+</dict>
+</plist>
