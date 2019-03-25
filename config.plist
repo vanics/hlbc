@@ -9,12 +9,12 @@
 	<key>app-update-is-forced</key>
 	<false/>
 	<key>config-url</key>
-	<string>https://www.health.gov.bc.ca/bchsl/ios/1.1/config.plist</string>
+	<string>https://raw.githubusercontent.com/vanics/hlbc/master/config.plist</string>
 	<key>feedback-email</key>
 	<string>HLBCFeedback@gov.bc.ca</string>
 	<key>health-alerts-url</key>
 	<string>https://www.healthlinkbc.ca/health_alerts.asp</string>
 	<key>sources-url</key>
-	<string>https://www.health.gov.bc.ca/bchsl/ios/1.1/sources.plist</string>
+	<string>https://raw.githubusercontent.com/vanics/hlbc/master/sources.plist</string>
 </dict>
 </plist>
