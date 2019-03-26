@@ -38,7 +38,7 @@
 			<key>pinImageURL</key>
 			<string>http://foo/emergency-pin.png</string>
 			<key>url</key>
-			<string>https://catalogue.data.gov.bc.ca/dataset/88e982b2-0799-4e17-b000-9961ea05b0f0/resource/4b834874-089f-4512-b001-8534e597a1b6/download/hlbc_emergencyrooms.csv</string>
+			<string>https://catalogue.data.gov.bc.ca/dataset/88e982b2-0799-4e17-b000-9961ea05b0f0/resource/c13d3e02-c5ec-4188-8c87-c5df26f22ddd/download/hlbc_emergencyrooms.txt</string>
 		</dict>
 		<dict>
 			<key>iconImageURL</key>
