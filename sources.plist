@@ -58,7 +58,7 @@
 			<key>key</key>
 			<string>pharmacy</string>
 			<key>label</key>
-			<string>Pharmacies 2</string>
+			<string>Pharmacies</string>
 			<key>pinImageURL</key>
 			<string>http://foo/pharmacy-pin.png</string>
 			<key>url</key>
