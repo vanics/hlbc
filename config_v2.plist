@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>app-is-supported</key>
+	<true/>
+	<key>app-update-is-available</key>
+	<false/>
+	<key>app-update-is-forced</key>
+	<false/>
+	<key>config-url</key>
+	<string>https://raw.githubusercontent.com/vanics/hlbc/master/config_v2.plist</string>
+	<key>feedback-email</key>
+	<string>HLBCFeedback@gov.bc.ca</string>
+	<key>health-alerts-url</key>
+	<string>https://www.healthlinkbc.ca/health_alerts.asp</string>
+	<key>sources-url</key>
+	<string>https://raw.githubusercontent.com/vanics/hlbc/master/sources_v2.plist</string>
+</dict>
+</plist>
